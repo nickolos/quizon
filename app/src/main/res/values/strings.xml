@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Quizon</string>
+    <string name="play">Начать игру</string>
+    <string name="account">Личный кабинет</string>
+    <string name="settings">Настройки</string>
+    <string name="title">QuizOn</string>
+    <string name="waiting">Подождите, ищем игроков...</string>
+    <string name="waiting_time">Осталось ждать: </string>
+    <string name="languageOff">Русский</string>
+    <string name="languageOn">Английский</string>
+    <string name="lang">Язык</string>
+    <string name="sign">Войти через:</string>
+    <string name="rating">Рейтинг</string>
+    <string name="stat">Статистика</string>
+    <string name="wins">Количество побед:</string>
+    <string name="max">Максимальный балл за игру:</string>
+    <string name="average">Средний балл за игру:</string>
+    <string name="question">Вопрос</string>
+    <string name="question1">Вопрос №</string>
+    <string name="answer">Ответить</string>
+    <string name="result">Результаты</string>
+    <string name="main_menu">В главное меню</string>
+    <string name="the_results_of_the_last_game">Результаты последней игры</string>
+    <string name="your_answer">Ваш ответ:</string>
+    <string name="right_answer">Правильный ответ:</string>
+    <string name="no_signal">Нет подключения к интернету...</string>
+    <string name="last_result_loading_fail_text">Результаты не найдены</string>
+    <string name="game_connection_failed">Не удалось подключиться к игре</string>
+    <string name="game">Игра</string>
+    <string name="game_create">Создать игру</string>
+    <string name="game_create_failed">Ошибка создания игры</string>
+    <string name="server_client_id">1031962057750-lrermtlgjf4vepki6bpq679392d72r70.apps.googleusercontent.com</string>
+</resources>
